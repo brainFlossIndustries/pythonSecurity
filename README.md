@@ -1,2 +1,1 @@
-Code snippets from the book "Black Hat Python" by Justin Seitz & Tim Arnold
-Will be using this as my notebook as I go through the contents
+All things python and security that I am working on or learning with.
