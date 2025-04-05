@@ -1,10 +1,10 @@
 import requests
 
 # === Config ===
-URL = "http://lookup.thm/login.php"         # <-- change this to the real URL
+URL = "http://URL"         # <-- change this to the real URL
 USERNAME_FIELD = "username"
 PASSWORD_FIELD = "password"
-WORDLIST = "/usr/share/wordlists/rockyou.txt"              # <-- list of usernames to test
+WORDLIST = "/../../..file.txt              # <-- list of usernames to test
 INVALID_PASSWORD = "test1234"           # <-- a known bad password
 SUCCESS_INDICATOR = "Wrong password"    # <-- string to detect valid usernames
 
